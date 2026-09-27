@@ -14,8 +14,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0014-longest-common-prefix) |
+| [0074-search-a-2d-matrix](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0074-search-a-2d-matrix) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
