@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0189-rotate-array) |
+| [1486-xor-operation-in-an-array](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/1486-xor-operation-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2248-intersection-of-multiple-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/2248-intersection-of-multiple-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
