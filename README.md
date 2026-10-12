@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/2248-intersection-of-multiple-arrays) |
 ## Counting
@@ -64,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/1486-xor-operation-in-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
