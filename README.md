@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0189-rotate-array) |
 | [1486-xor-operation-in-an-array](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/1486-xor-operation-in-an-array) |
@@ -75,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
