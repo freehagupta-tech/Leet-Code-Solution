@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0075-sort-colors) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
