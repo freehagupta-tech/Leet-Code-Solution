@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0115-distinct-subsequences) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/2248-intersection-of-multiple-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/2956-find-common-elements-between-two-arrays) |
