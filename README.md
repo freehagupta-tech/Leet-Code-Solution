@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/2248-intersection-of-multiple-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3925-concatenate-array-with-reverse](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/3925-concatenate-array-with-reverse) |
 ## Trie
 |  |
 | ------- |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+## Simulation
+|  |
+| ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
