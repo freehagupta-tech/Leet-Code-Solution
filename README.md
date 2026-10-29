@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0115-distinct-subsequences) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Dynamic Programming
