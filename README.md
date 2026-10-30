@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0624-maximum-distance-in-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0624-maximum-distance-in-arrays) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/2248-intersection-of-multiple-arrays) |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0202-happy-number) |
+## Greedy
+|  |
+| ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0624-maximum-distance-in-arrays) |
 <!---LeetCode Topics End-->
