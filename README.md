@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0202-happy-number) |
 | [1486-xor-operation-in-an-array](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/1486-xor-operation-in-an-array) |
 ## Two Pointers
 |  |
@@ -59,12 +60,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1768-merge-strings-alternately](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -125,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
