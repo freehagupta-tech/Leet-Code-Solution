@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/2248-intersection-of-multiple-arrays) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/2248-intersection-of-multiple-arrays) |
 ## Counting
