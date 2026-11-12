@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0624-maximum-distance-in-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/0624-maximum-distance-in-arrays) |
+| [1389-create-target-array-in-the-given-order](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/1389-create-target-array-in-the-given-order) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/2248-intersection-of-multiple-arrays) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/1389-create-target-array-in-the-given-order) |
 | [3925-concatenate-array-with-reverse](https://github.com/freehagupta-tech/Leet-Code-Solution/tree/master/3925-concatenate-array-with-reverse) |
 ## String Matching
 |  |
